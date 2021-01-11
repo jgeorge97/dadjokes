@@ -4,6 +4,7 @@
         <p>This is an app that displays dad jokes</p>
         <p>Created to learn <a href="https://nuxtjs.org/" target="_blank" rel="noopener noreferrer">Nuxt.js</a></p>
         <p>Created by referencing <a href="https://www.youtube.com/c/TraversyMedia">Traversy Media's</a> <b><a href="https://youtu.be/ltzlhAxJr74" target="_blank">Nuxt JS Crash Course</a></b></p>
+        <p>My GitHub <a href="https://github.com/jgeorge97" target="_blank" rel="noopener noreferrer">profile</a></p>
     </div>
 </template>
 
